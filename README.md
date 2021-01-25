@@ -1,4 +1,5 @@
 # Backend Aplikasi Proses Perhitungan Suara
+untuk aplikasi bisa di lihat disini(https://github.com/astarikafanny/Flutter-Aplikasi-Perhitungan-Suara)
 
 ## Instalasi
 - install vendor: `composer install`
