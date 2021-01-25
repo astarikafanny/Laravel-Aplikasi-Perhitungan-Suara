@@ -13,4 +13,4 @@
 
 ## Login
 - email: dev@mail.com
-- password: dev# Laravel-Aplikasi-Perhitungan-suara
+- password: dev
